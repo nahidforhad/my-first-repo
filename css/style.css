@@ -1,0 +1,7 @@
+.dim{
+    background-color: rgb(195, 237, 242);
+}
+#blue{
+    display: none;
+    /* visibility: hidden;  */
+}
